@@ -16,8 +16,6 @@ void func(void* data)
   my_putchar('\n');
 }
 
-// void ck_capture_streams(t_capture **capout, t_capture **caperr, void (*func)(void*), void* data);
-
 int main()
 {
   t_capture *capout;
